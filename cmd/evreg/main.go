@@ -237,6 +237,8 @@ func loadTemplates() error {
 }
 
 func main() {
+	log.Println("EvReg version 0.1")
+
 	var err error
 
 	if err = loadTemplates(); err != nil {
