@@ -1,0 +1,21 @@
+{
+  "Events": [
+    {
+      "Name": "Test Event",
+      "RegisterToken": "R3G1S7ER",
+      "AdminToken": "L3TM3IN",
+      "Slots": [
+        {
+          "Name": "2021 Jan 1 11:00 - 12:00",
+          "Limit": 20,
+          "Attendees": []
+        },
+        {
+          "Name": "2021 Jan 1 10:00 - 11:00",
+          "Limit": 20,
+          "Attendees": []
+        }
+      ]
+    }
+  ]
+}
